@@ -29,6 +29,16 @@
                 "type": "font"
             },
             {
+                "file": "images/music_icon_play.png",
+                "name": "IMAGES_MUSIC_ICON_PLAY_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/music_icon_ellipsis.png",
+                "name": "IMAGES_MUSIC_ICON_ELLIPSIS_PNG",
+                "type": "bitmap"
+            },
+            {
                 "file": "images/SignalK.png",
                 "menuIcon": true,
                 "name": "IMAGES_SIGNALK_PNG",
@@ -39,8 +49,7 @@
     "sdkVersion": "3",
     "shortName": "SignalK",
     "targetPlatforms": [
-        "aplite",
-        "diorite"
+        "aplite"
     ],
     "uuid": "41fba6b8-8c0d-4b94-9425-a49f5dc1dbc0",
     "versionCode": 1,
